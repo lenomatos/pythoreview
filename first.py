@@ -1,0 +1,1 @@
+print("Helo World!\n" * 10)
